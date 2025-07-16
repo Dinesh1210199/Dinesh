@@ -1,0 +1,9 @@
+id,name,sku,categoryId,category,counterPrice,wholesalePrice,customPrice,stock,unit,gstRate,imageUrl,barcode,status,createdAt
+1,Chocolate Cake,SKU001,1,Cakes,450,400,,15,piece,18,,,active,2025-07-16T19:45:43.670Z
+2,Vanilla Cupcake,SKU002,1,Cakes,35,30,,50,piece,18,,,active,2025-07-16T19:45:43.670Z
+3,Croissant,SKU003,1,Pastries,45,35,,26,piece,18,,,active,2025-07-16T19:45:43.670Z
+4,Danish Pastry,SKU004,1,Pastries,55,45,,20,piece,18,,,active,2025-07-16T19:45:43.670Z
+5,White Bread,SKU005,1,Breads,25,20,,30,piece,18,,,active,2025-07-16T19:45:43.670Z
+6,Whole Wheat Bread,SKU006,1,Breads,35,30,,25,piece,18,,,active,2025-07-16T19:45:43.671Z
+7,Gulab Jamun,SKU007,1,Sweets,15,12,,100,piece,18,,,active,2025-07-16T19:45:43.671Z
+8,Rasgulla,SKU008,1,Sweets,12,10,,80,piece,18,,,active,2025-07-16T19:45:43.671Z
